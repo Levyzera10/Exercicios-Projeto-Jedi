@@ -1,17 +1,24 @@
-WORKFLOW
-Working Dire --> (add) index --> (commit) head 
+#Documentação git
 
-Working directory : new files 
-index : temporary area 
-head : the last commit 
+##WORKFLOW
+    Working Dire --> (add) index --> (commit) head 
 
-( inside of index )
-add and confirm  
-git add . <arquivo>
+* Working directory : new files 
+* index : temporary area 
+* head : the last commit 
 
-alterations 
-git commit -m "comments"
-- the file will be sent  to HEAD , but not to the  remote repository yet.-
+### Inside of index
+add and confirm
+
+    git add . 
+    git add  <File name>
+
+### Alterations 
+Confirm alterations
+
+    git commit -m "comments"
+
+the file will be sent  to HEAD , but not to the  remote repository yet.
 
 SEND ALTERATIONS 
 Head --> repository remote 
