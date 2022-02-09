@@ -1,6 +1,3 @@
 /.idea
 exercicioprojetojedi.iml
-/out
-/out/*
-
-/out/
+out
