@@ -1,6 +1,8 @@
-#Documentação git
 
-##WORKFLOW
+# Git documentation
+
+## WORKFLOW
+
     Working Dire --> (add) index --> (commit) head 
 
 * Working directory : new files 
