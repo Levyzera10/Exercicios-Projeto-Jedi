@@ -5,11 +5,10 @@ package com.projeto.jedi.conquista01;
  * isso, usar o método System.out.println() para exibir o valor da variável no console. OBS*: Se atentar ao parâmetro do
  * método de exibição
  */
-public class exercicio01 {
+public class Exercicio01 {
     public static void main(String[] args) {
     int numero;
     numero = 15;
         System.out.println(numero);
     }
-
 }

@@ -4,7 +4,7 @@ package com.projeto.jedi.conquista01;
  * Criar um código que compara valores iguais, maiores e menores para variáveis de tipos diferentes. Ex: int numero1 = 20;
  * long numero2 = 20; numero1 == numero2. (utilizar: int, long, double, float e short)
  */
-public class exercicio06 {
+public class Exercicio06 {
     public static void main(String[] args) {
         int numero1 = 10;
         float numero2 = 5;

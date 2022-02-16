@@ -3,7 +3,7 @@ package com.projeto.jedi.conquista01;
 /**
  * Criar um código que realiza todas as funções aritméticas usando os operadores
  */
-public class exercicio05 {
+public class Exercicio05 {
     public static void main(String[] args) {
         // + , - , * , / , %
         int num1 = 10;
