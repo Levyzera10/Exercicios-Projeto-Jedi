@@ -18,6 +18,8 @@ public class exercicio03 {
         if (idade >= 20 || idade % 2 == 0 ){
             System.out.println(true);
         }
-
+        else {
+            System.out.println("falso");
+        }
     }
 }
