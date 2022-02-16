@@ -8,7 +8,6 @@ package com.projeto.jedi.conquista01;
 
 public class Exercicio07 {
     public static void main(String[] args) {
-        boolean verificacao = true;
         int idade1 = 10;
         int idade2 = 5;
 
