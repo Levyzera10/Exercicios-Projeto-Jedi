@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista;
+package com.projeto.jedi.ExerciciosLista1;
 
 /**
  * Informar um saldo e imprimir o saldo com reajuste de 1%.

@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista;
+package com.projeto.jedi.ExerciciosLista1;
 
 /**
  * Fazer um programa que imprima a média aritmética dos números 8,9 e 7. A média dos

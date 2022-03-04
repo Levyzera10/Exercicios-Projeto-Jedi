@@ -1,6 +1,4 @@
-package com.projeto.jedi.ExerciciosLista;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package com.projeto.jedi.ExerciciosLista1;
 
 import java.util.Scanner;
 
@@ -18,9 +16,13 @@ public class Java01 {
         int anos, meses, dias;
         System.out.println(" quantos anos ? ");
         anos  = scanner.nextInt();
+
         System.out.println("quantos meses ?");
+
         meses = scanner.nextInt();
+
         System.out.println("quantos dias ?");
+
         dias  = scanner.nextInt();
         System.out.println(anos + " anos " + meses + " meses " + dias + " dias = " + (anos *365 + meses* 30 + dias))  ;
     }
