@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista2;
+package com.projeto.jedi.exerciciolista1;
 
 public class Java01 {
     public static void main(String[] args) {

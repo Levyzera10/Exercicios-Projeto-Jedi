@@ -1,11 +1,11 @@
-package com.projeto.jedi.ExerciciosLista2;
+package com.projeto.jedi.exerciciolista1;
 
 import java.util.Scanner;
 
 /**
- * Leia a idade de 20 pessoas e exiba quantas pessoas são maiores de idade.
+ * Leia a idade de 20 pessoas e exiba a soma das idades.
  */
-public class Java08 {
+public class Java06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] idade = new int[20];
@@ -15,11 +15,8 @@ public class Java08 {
             idade[i] = scanner.nextInt();
             soma += idade[i];
             System.out.println(soma);
-            if (idade[i] >= 18){
-                System.out.println("Maior de idade :");
         }
-
-
-        }
+        System.out.println("A soma das idades :" + soma);
     }
+
 }

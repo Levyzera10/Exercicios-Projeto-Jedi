@@ -1,6 +1,5 @@
-package com.projeto.jedi.ExerciciosLista2;
+package com.projeto.jedi.exerciciolista1;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
 /**

@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista2;
+package com.projeto.jedi.exerciciolista1;
 
 import java.util.Scanner;
 

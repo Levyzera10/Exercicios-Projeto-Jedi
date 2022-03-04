@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista2;
+package com.projeto.jedi.exerciciolista1;
 
 /**
  * Escreva um algoritmo que calcule a soma dos números de 1 a 15.
