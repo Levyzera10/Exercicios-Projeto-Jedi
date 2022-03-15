@@ -7,11 +7,12 @@ package com.projeto.jedi.conquista03;
  */
 public class Exercicio04 {
     public static void main(String[] args) {
-
+        String nome = "Levy";
         for (int i = 0; i < 10; i++) {
-            String nome = "Levy";
+
             if (i % 2 == 0) {
-                System.out.println(i + nome +nome);
+                nome += "," + nome ;
+                System.out.println(nome);
             }
         }
     }
