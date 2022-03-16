@@ -7,6 +7,7 @@ package com.projeto.jedi.conquista03;
  */
 public class Exercicio04 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         String nome = "Levy";
         for (int i = 0; i < 10; i++) {
 
@@ -15,5 +16,16 @@ public class Exercicio04 {
                 System.out.println(nome);
             }
         }
+=======
+
+       String nome = "Levy";
+       for (int i = 0;i<10;i++){
+           if (i % 2 == 0){
+               nome += "," + nome;
+               System.out.println(nome);
+           }
+       }
+
+>>>>>>> conquista03
     }
 }

@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Exercicio05 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Escolha um número 1, 2 ou 3:");
+        System.out.println("Escolha um número 1, git 2 ou 3:");
         int num = entrada.nextInt();
 
         switch (num) {
