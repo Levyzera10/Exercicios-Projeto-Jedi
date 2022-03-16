@@ -1,4 +1,4 @@
-package com.projeto.jedi.ExerciciosLista1;
+package com.projeto.jedi.exerciciosLista2;
 
 import java.text.DecimalFormat;
 
