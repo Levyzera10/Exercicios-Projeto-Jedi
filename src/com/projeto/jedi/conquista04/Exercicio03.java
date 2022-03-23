@@ -1,5 +1,7 @@
 package com.projeto.jedi.conquista04;
 
+import java.util.Arrays;
+
 /**
  * Criar dois arrays de tipo inteiro de tamanho 10 e inicializar os dois com valores diferentes. Criar também um
  * segundo array de 10 posições que vai receber como valor para cada posição a subtração do array A pelo array B.

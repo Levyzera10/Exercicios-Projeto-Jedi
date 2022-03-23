@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class Exercicio04 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        //TODO apenas inicializar os valores e dizer quantos impares e pares
         System.out.println("digite o número :");
         int[] meuArray = new int[10];
         for (int i = 0; i < meuArray.length; i++) {

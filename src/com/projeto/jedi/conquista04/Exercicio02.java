@@ -1,5 +1,6 @@
 package com.projeto.jedi.conquista04;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -9,6 +10,7 @@ import java.util.Scanner;
 public class Exercicio02 {
     public static void main(String[] args) {
 
+        //TODO Atribuir os valores para o array
         int[] meuArray1 = new int[10];
         String[] meuArray2 = new String[10];
         for (int i = 0; i < meuArray1.length; i++) {
