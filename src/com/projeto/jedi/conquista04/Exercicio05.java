@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Quantos valores são múltiplos de 5
  * Qual a soma total dos valores
  */
-public class Ecercicio05 {
+public class Exercicio05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] meuArray1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
